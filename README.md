@@ -84,6 +84,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 Modified here
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 ##  About
 
 Denise Case
