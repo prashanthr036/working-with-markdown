@@ -80,7 +80,7 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 ## Learn More
 
-Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
+Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. Modified here
 
 ##  About
 
