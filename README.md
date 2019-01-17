@@ -82,10 +82,6 @@ If editing online in GitHub, scroll up to the top of the edit box, and click "Pr
 
 Learn more by checking out [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown") and other resources. 
 
-Modified here
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 ![Hosted image](https://thumbs.mic.com/MWQwZTlmOTI4ZiMvT1JTWnNsMndTZVJnRDVDZjBMM1hNWk1YZm9FPS80Mng0Mjg6Mjk1OHgxOTE5LzgwMHg0NTAvZmlsdGVyczpmb3JtYXQoanBlZyk6cXVhbGl0eSg4MCkvaHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BvbGljeW1pYy1pbWFnZXMvZ2Zyb3A5dHoyajJwd3JoM2R2c3N3dWZmZHJueHQ4NW0xYXdqbnVoNzhmbWF2bmxieXdjbjllZmtreXE2OGNpaS5qcGc.jpg "test image")
 
